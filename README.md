@@ -1,6 +1,8 @@
-# MyVoice  
+<p align="center"><img src="https://socialify.git.ci/prakhar-singh09/My-Voice/image?description=1&descriptionEditable=&language=1&name=1&owner=1&theme=Auto" alt="hoolichat-api" width="640" height="320" /></p>
 
-Create and edit document with your voice only.
+<p>
+🎤Create and edit document with your voice only.
+</p>
 
 ## Table of Contents
 1. [Project Aims](#project-aims)
