@@ -2,15 +2,13 @@
 
 Create and edit document with your voice only.
 
-## Demo
-https://github.com/prakhar-singh09/My-Voice/assets/92270107/c3025907-13c4-4f5d-9a21-8078f7893274
-
-
 ## Table of Contents
 1. [Project Aims](#project-aims)
 1. [Overview](#overview)
 1. [Functionality](#functionality)
 1. [Technologies & Frameworks](#technologies--frameworks)
+1. [Demo](#demo)
+
 
 ## Project Aims
 Writing and editing papers, documents, and emails is an essential task for any modern day student. Yet, the way in which we do so can be inhibitive for some. While keyboards and mice are incredibly useful for most, for those that are missing limbs, hands, digits, or have conditions such as Arthritis in the hand, Parkinson’s, Carpal Tunnel Syndrome, or Essential Tremor, keyboards are practically unusable if not extremely discomforting. The number of Americans that belong to this group is estimated to be over 28 million. 
@@ -51,10 +49,13 @@ Planned functionality:
 ## Technologies & Frameworks
 The front-end of this application is built with [React](https://reactjs.org/). For natural language processing, we are using [Google Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API). Design element dependancies include: [Material-UI](https://material-ui.com/) and [FontAwesome](https://fontawesome.com/).
 
+## Demo
+https://github.com/prakhar-singh09/My-Voice/assets/92270107/c3025907-13c4-4f5d-9a21-8078f7893274
+
 
 ## Contribute
 In order to set up the project for contribution, run:
-1. `cd speechful` to enter the `/speechful` directory.
+1. `cd MyVoice` to enter the `/MyVoice` directory.
 1. `npm install` to install all the dependencies of the project
 1. `npm run start` to launch the development server.
 1. If it doesn't happen automatically, open `localhost:3000` in your browser.
